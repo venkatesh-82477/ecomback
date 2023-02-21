@@ -106,7 +106,7 @@ const get = (request,response)=>{
       },
       {
         id:14,
-        imimage:"https://m.media-amazon.com/images/I/61hZrbHRMWL._AC_UY327_FMwebp_QL65_.jpg",
+        image:"https://m.media-amazon.com/images/I/61hZrbHRMWL._AC_UY327_FMwebp_QL65_.jpg",
         title:"Apple 2022 10.9-inch iPad ",
         price1:"$14499",
         price2:"$15599",
